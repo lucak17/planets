@@ -16,6 +16,7 @@ This is part of https://coderefinery.github.io/research-software-engineering/.
 ## Installation instructions
 
 (...)
+test
 
 
 ## Example
